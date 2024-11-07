@@ -16,6 +16,9 @@ These metrics are measured against target service levels set for each customer. 
 2. **Create a Dashboard**: Visualize metrics and insights to enable the supply chain team to monitor and act on delivery performance.
 3. **Generate Actionable Insights**: Highlight performance trends and customer segmentation insights to prioritize improvements.
 
+![image](https://github.com/user-attachments/assets/59123c86-e91c-4e3d-8e4c-0bdf73f1973d) ![image](https://github.com/user-attachments/assets/a1e24771-77be-43e1-bcf1-d1485055992a) ![image](https://github.com/user-attachments/assets/8df47a69-6483-4ffd-b1b7-652a123e193b)  ![image](https://github.com/user-attachments/assets/e692b002-e593-41ec-92fb-bb5737dfc0a7)
+
+
 ## Key Insights
 - **Customer Segments**: Customers are classified into "Bulk Buyers," "High-Value Frequent Buyers," and "Steady Shoppers," each with different ordering patterns.
 - **Customer At Risk**: Key customers like Lotus Mart and Cool Blue show frequent delays and low OTIF%, signaling potential churn risk.
