@@ -1,5 +1,8 @@
 # Supply Chain Analysis
 
+## Live Dashboard
+[View the Live Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiMWZhNTg2ZjQtMzhkOS00OTVmLWJjZDMtYTIxM2NiZmZmNjVlIiwidCI6ImZlMzQ2NjBjLWI3MjgtNDI0NC05MDRhLTUwNDg4MTNjZjIzMCJ9&pageName=5d5e5d762697add52859)
+
 ## Project Overview
 AtliQ Mart, a fast-growing FMCG manufacturer headquartered in Gujarat, India, operates in Surat, Ahmedabad, and Vadodara, with plans to expand to other metro and Tier 1 cities in the next two years. However, service issues have led to the non-renewal of contracts by some key customers, largely due to challenges in timely and complete order deliveries. This project aims to create a supply chain analytics dashboard to monitor service levels daily and enable quick responses to delivery issues.
 
